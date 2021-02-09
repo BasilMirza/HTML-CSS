@@ -1,0 +1,13 @@
+.circle{
+    height: 250px;
+    width: 250px;
+    background:url("https://www.nhm.ac.uk/content/dam/nhmwww/discover/wpy-2020-winning-images/wpy-winning-image-full-width.jpg") ;
+    
+    background-size: cover;
+    }
+    
+    .circle:hover{
+    background:url("https://images.pexels.com/photos/235986/pexels-photo-235986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-size: cover;
+    
+    }

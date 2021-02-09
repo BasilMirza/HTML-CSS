@@ -1,0 +1,43 @@
+.container{
+    height: 140px;
+    }
+    .first-div{
+    height: 100%;
+    width: 170px;
+    background: lightblue;
+    float: left;
+    margin-right: 5px;
+    }
+    
+    .first-div p{
+    margin: 0;
+    color: gold;
+    }
+    .second-div{
+    height: 120px;
+    width: 150px;
+    float: left;
+    overflow: hidden;
+    border: 10px solid #5833ff;
+    margin-right: 5px;
+    }
+    .second-div p{
+    margin-top: 5px;
+    margin-left: 5px;
+    color: gold;
+    
+    }
+    .third-div{
+    height: 140px;
+    width: 170px;
+    background: blue;
+    float: left;
+    }
+    
+    .third-div p{
+    margin-top: 5px;
+    margin-left: 5px;
+    color: gold;
+    padding-top: 20px;
+    padding-left: 20px;
+    }

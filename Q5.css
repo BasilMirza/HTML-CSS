@@ -1,0 +1,19 @@
+.abc {
+    padding: 20px;
+    margin: 10px;
+    background: lightskyblue;
+    color: #fff;
+    font-size: 21px;
+    font-weight: bold;
+    line-height: 1.3em;
+    border: 2px dashed #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 0 4px blue, 2px 1px 6px 4px rgb(0,0,100);
+    text-shadow: -1px -1px #aa3030;
+    font-weight: normal;
+ }
+ 
+ body {
+   padding: 10px;
+ }
+ 
